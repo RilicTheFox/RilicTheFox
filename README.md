@@ -9,6 +9,7 @@ Languages:
 - JavaScript
 - Python
 - C++ (learning)
+- Unreal Blueprints (learning)
 
 Engines: 
 - Godot (my beloved :pleading_face:)
