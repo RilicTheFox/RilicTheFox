@@ -6,8 +6,8 @@ I'm Rilic (he/him), an aspiring game developer and creative writer just trying t
 Languages:
 - C#
 - GDScript
-- JavaScript
 - Python
+- JavaScript
 - C++ (learning)
 - Unreal Blueprints (learning)
 
