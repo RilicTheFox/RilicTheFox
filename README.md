@@ -7,7 +7,6 @@ Languages:
 - C#
 - GDScript
 - Python
-- JavaScript
 - C++ (learning)
 - Unreal Blueprints (learning)
 
