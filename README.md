@@ -1,6 +1,4 @@
-<img src="pascal-star.svg" height="100">
-
-# Welcome!
+# Welcome! 
 I'm Rilic (he/him), an aspiring game developer and creative writer just trying to get through life.
 
 Along with various showcases of my coursework, you'll find a few things that may actually be useful for you! :>
@@ -24,3 +22,5 @@ Engines:
 🎮 My funware: https://rilic.itch.io
 
 🌌 My prose : https://conflux.onl
+
+<img src="pascal-star.svg" height="100">
