@@ -13,7 +13,7 @@ Languages:
 Engines: 
 - Unity
 - Unreal Engine 4 / 5
-- Godot (my beloved :pleading_face:)
+- Godot (my beloved)
 
 ## Links
 
