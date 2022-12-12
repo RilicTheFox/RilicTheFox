@@ -11,11 +11,12 @@ Languages:
 - Unreal Blueprints (learning)
 
 Engines: 
-- Godot (my beloved :pleading_face:)
 - Unity
-- Unreal (learning)
+- Unreal Engine 4 / 5
+- Godot (my beloved :pleading_face:)
 
 ## Links
-:video_game: My games: https://rilic.itch.io
 
-:open_book: My story: https://conflux.onl
+🎮 My funware: https://rilic.itch.io
+
+🌌 My prose : https://conflux.onl
