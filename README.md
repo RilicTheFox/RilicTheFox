@@ -1,5 +1,5 @@
 # Welcome! 
-I'm Rilic (he/they), an aspiring game developer and creative writer just trying to get through life.
+I'm Rilic (they/them), an aspiring game developer and creative writer just trying to get through life.
 
 Along with various showcases of my coursework, you'll find a few things that may actually be useful for you! :>
 
