@@ -10,7 +10,7 @@ Languages:
 - C++
 - Unreal Blueprints
 - GDScript
-- Python (not fluent, it's been a while)
+- Python
 
 Engines: 
 - Unity
